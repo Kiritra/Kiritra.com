@@ -2,7 +2,7 @@
   .team-summary {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     .team-image {
       height: 60px;
       width: 60px;
@@ -36,13 +36,13 @@
 
   .team-summary-large {
     background-color: $white-offset;
-    padding: 30px;
-    border-radius: 3px;
+    padding: 20px;
+    border-radius: 50px;
     .team-image {
       height: 90px;
       width: 90px;
       margin-right: 20px;
-      border-radius: 50%;
+      border-radius: 30%;
       overflow: hidden;
       img {
         width: 90px;
