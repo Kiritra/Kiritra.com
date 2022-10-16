@@ -1,0 +1,30 @@
+main:
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 5
+  - name: "About"
+    url: "/about/"
+    weight: 7
+  - name: "Contact"
+    url: "/contact/"
+    weight: 8
+  - name: "How we do it"
+    url: "/how-we-do-it/"
+    weight: 3
+  - name: "Use Cases"
+    url: "/use-cases/"
+    weight: 4
+  - name: "Partnership"
+    url: "/partnership/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
