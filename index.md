@@ -2,8 +2,8 @@
 title: Kiritra
 layout: home
 description: Business website of Kiritra.
-intro_image: "images/illustrations/Honeycomb_adobe_express.svg"
-intro_image_absolute: false
+//intro_image: "images/illustrations/Honeycomb_adobe_express.svg"
+intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
 ---
