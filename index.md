@@ -2,7 +2,7 @@
 title: Kiritra
 layout: home
 description: Business website of Kiritra.
-intro_image: "images/illustrations/HoneyCombeColor_2100x1200.png"
+intro_image: "images/illustrations/HoneyCombeColor_2100x1200_transparent.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
